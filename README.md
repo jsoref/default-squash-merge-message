@@ -1,0 +1,1 @@
+# default-squash-merge-message
